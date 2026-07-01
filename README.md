@@ -24,8 +24,6 @@ python "batch file editor.py"
 
 Download the latest release from the `dist` folder:
 - **Batch File Editor.exe** - One-file standalone executable
-- **Bat File Explorer.exe** - Alternative build
-- **Batch File Editor Updated/** - One-directory distribution
 
 ## Building from Source
 
@@ -58,8 +56,7 @@ batch file editor/
 ├── batch file editor.py    # Main application
 ├── generate_icon.py        # Icon generator script
 ├── Batch File Editor.spec  # PyInstaller spec (one-file)
-├── Bat File Explorer.spec  # Alternative spec
-└── Batch File Editor Updated.spec  # One-directory spec
+
 ```
 
 ## Requirements
